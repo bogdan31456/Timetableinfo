@@ -2,11 +2,11 @@
     {
         "date": "2022-10-17",
         "day": "Monday",
-        "StartTime":10,
-        "EndTime":10-45,
         "Class": 10,
-        "Cabinet": 5,
-        "Disipline": "Histori"
+        "Cabinet": "bioligia",
+        "Disipline": "Historia"
+
+           
        
     }
     
